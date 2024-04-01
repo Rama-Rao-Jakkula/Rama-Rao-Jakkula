@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rama Rao Jakkula! <br/><a href="https://github.com/Rama Rao Jakkula">Passionate Cybersecurity Analyst </a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Rama Rao Jakkula! <br/><a href="https://github.com/Rama Rao Jakkula">Passionate Cybersecurity Analyst </a>, 
 <h2>👨‍💻 My Project:</h2>
 - <b>Azure Cloud-SOC (AlgoExpert)</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
