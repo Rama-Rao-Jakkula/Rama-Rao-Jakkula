@@ -1,5 +1,5 @@
 <h1>Hi, I'm Rama Rao Jakkula! <br/><a href="https://github.com/Rama Rao Jakkula">Passionate Cybersecurity Analyst </a>, 
-<h2>👨‍💻 My Project:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 - <b>Azure Cloud-SOC (AlgoExpert)</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
