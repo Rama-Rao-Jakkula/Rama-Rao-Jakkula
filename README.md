@@ -2,4 +2,3 @@
 <h2>👨‍💻 My Projects:</h2>
 - <b>Azure/Cloud Cyber Security Project</b>
   -[Creating a Live SOC / Honeynet in Azure]
-
