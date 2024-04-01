@@ -5,7 +5,6 @@
 <h2>👨‍💻 My Projects:</h2>
 - <b>   Azure Cloud Project
   - [Creating a Live SOC / Honeynet in Azure]
-[linkedin]: https://linkedin.com/in/Rama Rao Jakkula
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
